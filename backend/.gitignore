@@ -1,0 +1,2 @@
+# Ignore Flask instance folder (databases, etc.)
+backend/instance/
